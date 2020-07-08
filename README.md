@@ -1,2 +1,2 @@
-# cinnamon-dotfiles
-My dotfiles for my cinnamon install.
+# arch-cinnamon-dotfiles
+My dotfiles for my arch + cinnamon install.
